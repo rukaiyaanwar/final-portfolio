@@ -627,3 +627,12 @@ h3.my-profession {
     overflow: hidden;
     cursor: pointer;
 }
+
+/* Contact  */
+
+.contact-title {
+    color: var(--skin-color);
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
