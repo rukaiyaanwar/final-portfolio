@@ -379,6 +379,15 @@ h3.my-profession {
     color: var(--text-black-700);
 }
 
+@media (max-width:767px) {
+    .home .home-img {
+        opacity: 0;
+    }
+    .home .home-img img {
+        opacity: 0;
+    }
+}
+
 /* About  */
 
 .about .about-content {
