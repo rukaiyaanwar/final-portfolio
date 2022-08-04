@@ -7,6 +7,8 @@
     --text-black-900 : #302e4d;
     --text-black-700 : #504e70;
     --skin-color : red;
+    --skin-color : #aaa9ad;
+    --skin-color : #ab2e46;
 }
 
 body.dark {
